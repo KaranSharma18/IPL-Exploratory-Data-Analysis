@@ -1,6 +1,6 @@
 # IPL--Exploratory-Data-Analysis
 
-![](KaranSharma18/IPL-Exploratory-Data-Analysis/IpL image.jpg)
+![](https://github.com/KaranSharma18/IPL-Exploratory-Data-Analysis/IpL image.jpg)
 
 Indian Premier League is one of the most popular cricket leagues. We find commentators often explaining player’s performance, strike rate against a particular bowler and even match winning percentages based on tons and tons of match data collected.The purpose of this project is to analyze the IPL T-20 matches data and extract some productive information with regards to players and each team. This project involves the analysis of the following with the IPL-T20 matches from the year 2008 till 2019.In this project we will try to find out the most successful teams and players along with the factors contributing to win or loss of a team. we will also perform Exploratory data analysis on this dataset. Analysis done on Several factors include
 
